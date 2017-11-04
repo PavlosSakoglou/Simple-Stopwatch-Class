@@ -1,7 +1,7 @@
 # Simple Stopwatch Class
 Stopwatch class built in C++11 to measure processing time in applications. The interface includes conventional stopwatch functionality, such as start, stop, reset, and get time.
 
-# How to run
+# How to run the application
 
 Include the Stopwatch.hpp and Stopwatch.cpp in your C++ project, and instantiate the Stopwatch objects to measure time.
 
