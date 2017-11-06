@@ -15,7 +15,7 @@ There are no external dependencies or libraries, only <thread> and <chrono> whic
 
 * start() and end() methods get the current time stamp
 
-* reset() method sets the start and end counter to 0
+* reset() method sets the start and end counter to zero
 
 * Default destructor (C++11 defaulted)
 
